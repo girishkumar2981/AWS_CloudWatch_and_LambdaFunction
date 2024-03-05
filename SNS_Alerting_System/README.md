@@ -1,4 +1,4 @@
-##EC2 CPU Utilization Alerting through SNS##
+<h1>EC2 CPU Utilization Alerting through SNS</h1>
 
 Steps Involved:
 
