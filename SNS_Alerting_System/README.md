@@ -1,6 +1,6 @@
-EC2 CPU Utilization Alerting through SNS
+##EC2 CPU Utilization Alerting through SNS
 
-Steps Involved:
+#Steps Involved:
 
 CPU_Spike.py includes code to spike the EC2 CPU Utilization.
 
