@@ -1,4 +1,4 @@
-output:
+Output:
 
 <img width="768" alt="image" src="https://github.com/girishkumar2981/AWS_Cost_Management/assets/61040201/396924d5-db09-4b46-b5b4-71d35ea915a5">
 
