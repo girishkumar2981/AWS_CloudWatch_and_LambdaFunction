@@ -17,5 +17,5 @@ Create a SNS topic and mention the Email Address and body of the email.
 Connect to EC2 instance and run CPU_Spike.py python file in it.
 
 
-Monitor in the metrics section, when the spike crosses the threshold value you get a automated email from cloud watch.
+Monitor in the metrics section, when the spike crosses the threshold value, you get an automated email from cloud watch.
 
