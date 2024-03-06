@@ -1,8 +1,8 @@
 <h3> Output: </h3>
 
-<img width="768" alt="image" src="https://github.com/girishkumar2981/AWS_Cost_Management/assets/61040201/396924d5-db09-4b46-b5b4-71d35ea915a5">
+<img width="468" alt="image" src="https://github.com/girishkumar2981/AWS_CloudWatch_and_LambdaFunction/assets/61040201/d52e7f14-f0ee-4e75-8cdf-8abea454c6ea">
 
 Following policies need to be assigned to the role.
 
-<img width="333" alt="image" src="https://github.com/girishkumar2981/AWS_Cost_Management/assets/61040201/6ac6e81f-cc9b-4774-9998-f0a3054b69d2">
+<img width="321" alt="image" src="https://github.com/girishkumar2981/AWS_CloudWatch_and_LambdaFunction/assets/61040201/ec482df7-3fe5-4f37-a24d-385da090176b">
 
